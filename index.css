@@ -1,0 +1,162 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+.header img{
+   
+    
+        width: 15%;
+        height: 20%;
+        border-radius: 200px;
+        margin-left: 11rem;
+        display: inline-block;
+        position: relative;
+        margin-top: 40px;
+       }
+    
+    
+  
+  .info{
+  
+    color:white;
+    background:#DDB9A3;
+    margin:0 auto;
+    width:70%;
+    margin-top:120px; 
+   
+  }
+  .header{position:center;
+}
+  
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+  }
+  p{text-align:center}
+
+  
+ 
+     .title {width:10rem;
+    
+      height: 10rem;
+      text-align:right;
+
+      
+
+   }
+
+    .button1,
+    .button2, 
+    .button3
+    {
+      position: relative;
+      display:inline-block;
+      margin-left: 300px;
+      border-radius: 20px;
+      padding:10px;
+      width: 9rem;
+      margin-top:2.5rem;
+      
+    
+    }
+   .header h1{
+
+    margin-left: 800px;
+      bottom: 20px;
+      background-color:white;
+      margin-bottom: 60px;
+position:relative;      
+font-size: 3.5rem;
+
+     bottom:100px;
+      height: 40px;
+      font-family: 'Chelsea Market', cursive;
+      border:10px;
+   }
+   .button1{
+     background-color:#FF764E ;
+   }
+   .button2{
+    background-color:#5ED3EB ;
+  }
+  .button3{
+    background-color:#FFCD69 ;
+  }
+  .button1, 
+  .button2, 
+  .button3{
+    color:white;
+  }
+body{font-family: 'Roboto Mono', monospace;}
+
+footer img{
+  background-position: center;
+  background background-repeat: no-repeat;
+  background-size:cover;
+  height:15rem;
+  width:100%;
+
+}
+footer{background-color:#F9E7DC ;}
+.header{
+  display:inline-block;
+  position: relative;
+  
+  border: 10px;
+}
+.header p{
+  margin-left: 600px;
+  bottom: 20px;
+  background-color:white;
+  margin-bottom: 60px;
+position:relative;      
+font-size:20px;
+ bottom:100px;
+ 
+}
